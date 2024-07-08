@@ -1,4 +1,4 @@
-# Contributing to [Project Name]
+# Contributing to [shut down script for windows]
 
 Thank you for considering contributing to [Project Name]! We welcome contributions from the community and are excited to work together to improve the project. To ensure a smooth and efficient process, please follow these guidelines when contributing.
 
